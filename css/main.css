@@ -1,0 +1,19 @@
+#id1 {
+    border-style: solid;
+    border-color: blue;
+    width: 50%;
+}
+
+#id2 {
+    border-style: solid;
+    border-color: blueviolet;
+    width: 50%;
+
+
+}
+
+.wrapper2 {
+    flex-flow: row;
+    flex-direction: row; 
+    display: flex;
+}
